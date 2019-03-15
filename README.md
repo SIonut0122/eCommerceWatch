@@ -4,7 +4,7 @@
 
 
 ## Description
-This ecommerce website was created by me for learning purpouses,for learning how to work and understanding the react.js library.
+This ecommerce website was created by me for learning purpouses,for learning how to work with the react.js library.
 
 The app was createad to give you the experience of buying watches, adding them to your cart, to your wishlisht and then selecting the payment method to finish your order.
 
