@@ -1,4 +1,4 @@
-# ECOMMERCE WEBSITE - React.js App
+## eCommerce Web App - React.js
 
 ![alt text](http://i68.tinypic.com/2pzw41j.jpg)
 
