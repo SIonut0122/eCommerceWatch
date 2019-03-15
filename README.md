@@ -12,7 +12,7 @@ This app is meant to be fully responsive for every device type.
 
 Any suggestions are welcome :).
 
-## Test the app in your browser:
+## Test the app in your browser: https://sionut0122.github.io/eCommerceWatch/. 
 
 
 ## Test the app on your local machine.
