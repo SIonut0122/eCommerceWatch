@@ -26,14 +26,12 @@ Any suggestions are welcome :).
 
 
 ## Built with:
-To create this app, i've used:
+
 - HTML + CSS
 - Javascript
 - React.js
-- Bootstrap
-- jQuery
-_______________
-
-- React-addons-css-transition-group
-- React-image-magnify
+- Bootstrap 4.3.1
+- jQuery 3.3.1
+- React-addons-css-transition-group 15.6.2
+- React-image-magnify 2.7.4
 
