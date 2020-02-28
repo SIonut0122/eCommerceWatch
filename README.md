@@ -1,6 +1,6 @@
 ## eCommerce Web App - React.js
 
-![alt text](http://i68.tinypic.com/2pzw41j.jpg)
+![alt text](http://ionutdev.com/sionut0122/ecommwatch.png)
 
 
 ## Description
@@ -30,8 +30,8 @@ Any suggestions are welcome :).
 - HTML + CSS
 - Javascript
 - React.js
-- Bootstrap 4.3.1
-- jQuery 3.3.1
-- React-addons-css-transition-group 15.6.2
-- React-image-magnify 2.7.4
+- Bootstrap
+- jQuery
+- React CSS Transition
+- React-image-magnify
 
