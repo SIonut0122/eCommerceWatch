@@ -1,6 +1,6 @@
 ## eCommerce Web App - React.js
 
-![alt text](http://ionutdev.com/sionut0122/ecommwatch.png)
+![alt text](http://ionutdev.com/sionut0122/host_img/ecommwatch.png)
 
 
 ## Description
